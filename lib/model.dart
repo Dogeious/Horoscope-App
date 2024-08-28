@@ -16,7 +16,7 @@ class HoroscopeService {
       if (response.statusCode == 200) {
         return json.decode(response.body);
       } else {
-        throw Exception('Failed to load horoscope');
+        throw Exception('Failed to horoscope');
       }
     } catch (e) {
       throw Exception('Failed to connect to the server');
