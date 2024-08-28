@@ -1,16 +1,6 @@
-# untitled
+# Horoscope App
 
-A new Flutter project.
+A simple horoscope app that utilizes Firebase for its login functionality and Twin-Flame Api for its Horoscope functionality.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# API
+The API bearer token can only be obtained from the Twinflame API website. The token used is expired. So make sure to get a new token from the website.
